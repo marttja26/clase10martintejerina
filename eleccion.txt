@@ -1,0 +1,1 @@
+Creo que el motor de plantillas mas conveniente para usar es Embedded JavaScript templating debido a que todavia se actualiza y no esta descontinuado, la sintaxis no es muy complicada y la modularizacion de archivos es bastante simple.
